@@ -147,8 +147,8 @@ function message() {
     }, 2000);
    const paragraphs = [
     "Today is a special day for you",
-    "Another year has passed quietly…",
-    "in the blink of an eye...",
+    "Another year has passed quietly",
+    "in the blink of an eye",
     "So I wanted to make this..",
     "for you today",
     "to thank you",
@@ -190,4 +190,5 @@ function message() {
         }, index * 8000);
     });
     Candlecake.style.display = "block";
+
 }
